@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hakaton/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hakaton/static/js/main.f181e569.chunk.js",
+    "main.js.map": "/hakaton/static/js/main.f181e569.chunk.js.map",
+    "runtime-main.js": "/hakaton/static/js/runtime-main.c20b5d4c.js",
+    "runtime-main.js.map": "/hakaton/static/js/runtime-main.c20b5d4c.js.map",
+    "static/js/2.d5bcec2c.chunk.js": "/hakaton/static/js/2.d5bcec2c.chunk.js",
+    "static/js/2.d5bcec2c.chunk.js.map": "/hakaton/static/js/2.d5bcec2c.chunk.js.map",
+    "index.html": "/hakaton/index.html",
+    "precache-manifest.c4a5745d790591fd34b4d4fd8bb47643.js": "/hakaton/precache-manifest.c4a5745d790591fd34b4d4fd8bb47643.js",
+    "service-worker.js": "/hakaton/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hakaton/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d5bcec2c.chunk.js.LICENSE.txt": "/hakaton/static/js/2.d5bcec2c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hakaton/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20b5d4c.js",
+    "static/js/2.d5bcec2c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f181e569.chunk.js"
+  ]
+}
